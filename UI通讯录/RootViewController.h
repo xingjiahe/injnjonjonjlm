@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  RootViewController.h
 //  UI通讯录
 //
 //  Created by 邢家赫 on 15/9/10.
@@ -8,8 +8,7 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+@interface RootViewController : UIViewController
 
 
 @end
-
